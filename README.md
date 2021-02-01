@@ -1,16 +1,4 @@
-<p align="center">
-<a href="https://twitter.com/MohantyJubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://www.linkedin.com/in/jubin-mohanty-a03621a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://www.jubinmohanty.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://www.instagram.com/jubinmohanty/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-</p>
-<h2 align="center"> Hi there, नमस्ते (Namaste)🙏🏻, I'm Jubin Mohanty! !!👋 <h2>
-</p>
-<p align="center"><em>Software Engineer at <a href="https://www.airbus.com/">AIRBUS</a> 
-</em></p>
-<p align="center">
-<img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</p>
+
 
 ```python
 class DataEngineer:
