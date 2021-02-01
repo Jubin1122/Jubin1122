@@ -1,4 +1,9 @@
-
+<p align ="center">
+<a href="https://twitter.com/MohantyJubin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="http://www.linkedin.com/in/jubin-mohanty-a03621a5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="http://www.jubinmohanty.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.instagram.com/jubinmohanty/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+</p>
 
 ```python
 class DataEngineer:
