@@ -13,10 +13,6 @@
 </p>
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-
 class DataEngineer:
     def __init__(self):
         self.name = "Jubin Mohanty"
@@ -52,7 +48,6 @@ I write down tips and lecture notes on my personal tech blog, which can be found
 
 me = DataEngineer()
 me.say_hi()
-
 ```
 
 
