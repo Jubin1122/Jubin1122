@@ -50,15 +50,22 @@ me = DataEngineer()
 me.say_hi()
 ```
 
+<br>
 
+### 🤵 About Me:
+<h3 align=left> I am versatile, energetic, and easily adapt to different hats depending on the project requires. I, also, enjoy exploring new tech 💻 and leveraging them to build cool stuffs 🛠️ </h3>
+<br>
 
-
-- 🔭 I’m currently working on Machine Learning Pipelines using TensorFlow
-- 🌱 I’m currently learning AWS Cloud Automation using boto3
+- 🔭 I’m currently developing Machine Learning Pipelines using TensorFlow and optimising dasboards using ElasticSearch
+- 🌱 I’m currently learning AWS Cloud Automation and Kubernetes
 - 👯 I’m looking to collaborate on Opensource Projects
-- 🤔 I’m looking for help with Front-End Projects
 - 💬 Ask me about Backend, Data Enginnering, and Pythonic Hacks
-- 📫 How to reach me: 
+- 📫 How to reach me: Connect with me on **[LinkedIn]** 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lot of them!!
+- 💻: &nbsp;Ask me anything on my **[issues page]**
+
+<!-- links -->
+
+[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[linkedin]: http://www.linkedin.com/in/jubin-mohanty-a03621a5 "Jacob Colvin LinkedIn"
 
