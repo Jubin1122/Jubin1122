@@ -67,6 +67,7 @@ me.say_hi()
 
 ---
 ### Languages and Tools:
+<div>
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32px"/> </a> 
 <a href="https://pytorch.org/" target="_blank"> <img align="left" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32px"/> </a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" style="padding-right:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
@@ -82,7 +83,16 @@ me.say_hi()
 <a href="https://plotly.com/dash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" style="padding-right:6px" align="left" alt="Plotly" height='32px'/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:6px" align="left" alt="Postgres" height='32px'/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" style="padding-right:6px" align="left" alt="Bash" height='32px'/> </a>
+</div>
+<br>
+---
 
+<div>
+<p>
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jubin1122&&show_icons=true&title_color=8470FF&icon_color=bb2acf&text_color=FFA500&bg_color=FFFFF0" height="200">
+<img align ="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Jubin1122&layout=compact&&show_icons=true&title_color=8470FF&icon_color=bb2acf&text_color=FFA500&bg_color=FFFFF0" height="200">
+</div>
 
 
 
