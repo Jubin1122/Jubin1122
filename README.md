@@ -90,8 +90,8 @@ me.say_hi()
 <div>
 <p>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jubin1122&&show_icons=true&title_color=8470FF&icon_color=bb2acf&text_color=FFA500&bg_color=FFFFF0" height="200">
-<img align ="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Jubin1122&layout=compact&&show_icons=true&title_color=8470FF&icon_color=bb2acf&text_color=FFA500&bg_color=FFFFF0" height="200">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Jubin1122&&show_icons=true&title_color=8470FF&icon_color=bb2acf&text_color=FFA500&bg_color=FFFFF0" height="150">
+<img align ="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Jubin1122&layout=compact&&show_icons=true&title_color=8470FF&icon_color=bb2acf&text_color=FFA500&bg_color=FFFFF0" height="150">
 </div>
 
 
