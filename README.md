@@ -64,6 +64,36 @@ me.say_hi()
 - 😄 Pronouns: He/Him
 - 💻: &nbsp;Ask me anything on my **[issues page]**
 
+<br>
+
+---
+### Languages and Tools:
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32px"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img align="left" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" height="32px"/> </a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="32px" style="padding-right:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="32px" style="padding-right:6px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> </a>
+<a href="https://restfulapi.net/" target="_blank"> <img align="left" alt="RestfulAPI" height ="32px" style="padding-left:9px" src="https://restfulapi.net/wp-content/uploads/rest.png"> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" height ="32px" style="padding-left:9px" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg"> </a>
+<a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img align="left" alt="Flask" height ="32px" style="padding-left:9px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"> </a>
+<a href="https://www.docker.com/" target="_blank"> <img align="left" alt="Docker" height ="32px" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img align="left" alt="Kubernetes" height ="32px" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"> </a>
+<a href="https://www.jenkins.io/" target="_blank"> <img align="left" alt="Jenkins" height ="32px" style="padding-right:6px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:6px" align="left" alt="git" height='32px'/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:6px" align="left" alt="AmazonWebServies" height='32px'/> </a>
+<a href="https://plotly.com/dash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" style="padding-right:6px" align="left" alt="Plotly" height='32px'/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:6px" align="left" alt="Postgres" height='32px'/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" style="padding-right:6px" align="left" alt="Bash" height='32px'/> </a>
+
+
+
+
+
+
+
+
+
+
+
 <!-- links -->
 
 [issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
