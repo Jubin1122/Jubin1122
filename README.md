@@ -63,7 +63,7 @@ me.say_hi()
 - 😄 Pronouns: He/Him
 - 💻: &nbsp;Ask me anything on my **[issues page]**
 
-<br>
+
 
 ---
 ### Languages and Tools:
