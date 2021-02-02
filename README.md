@@ -84,7 +84,7 @@ me.say_hi()
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" style="padding-right:6px" align="left" alt="Postgres" height='32px'/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" style="padding-right:6px" align="left" alt="Bash" height='32px'/> </a>
 </div>
-<br>
+<br></br>
 
 
 <div>
