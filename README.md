@@ -50,7 +50,6 @@ me = DataEngineer()
 me.say_hi()
 ```
 
-<br>
 
 ### 🤵 About Me:
 <h3 align=left> I am versatile, energetic, and easily adapt to different hats depending on the project requires. I, also, enjoy exploring new tech 💻 and leveraging them to build cool stuffs 🛠️ </h3>
