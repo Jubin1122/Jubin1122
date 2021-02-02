@@ -52,7 +52,7 @@ me.say_hi()
 
 
 ### 🤵 About Me:
-<h3 align=left> I am versatile, energetic, and easily adapt to different hats depending on the project requires. I, also, enjoy exploring new tech 💻 and leveraging them to build cool stuffs 🛠️ </h3>
+<h3 align=left> I am versatile, energetic, and quickly adapt to different hats depending on the project requirements. I, also, enjoy exploring new tech 💻 and leveraging them to build cool stuffs 🛠️ </h3>
 <br>
 
 - 🔭 I’m currently developing Machine Learning Pipelines using TensorFlow and optimising dasboards using ElasticSearch
@@ -105,6 +105,6 @@ me.say_hi()
 
 <!-- links -->
 
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
-[linkedin]: http://www.linkedin.com/in/jubin-mohanty-a03621a5 "Jacob Colvin LinkedIn"
+[issues page]: https://github.com/Jubin1122/Jubin1122/issues "Jubin1122/issues"
+[linkedin]: http://www.linkedin.com/in/jubin-mohanty-a03621a5 "Jubin Mohanty LinkedIn"
 
